@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am <b style="color:blue">Thomas Sentre</b>, <i>a backend developer specializing in Node.js applications </i>. I am also pursuing my bachelors in Electronics and Electrical Engineering and will graduate in in 2022.
-I am really enthusiastic about learning new technology. This year I learned Node.js, Express, MongoDB, socket.io and Pug. Now I am learning <b>React, Redux and Firebase, a bit of typescript.</b>
-
+I am <b style="color:blue">Thomas Sentre</b>, <i>a backend developer specializing in Node.js applications </i>. 
+I am really enthusiastic about learning new technology. 
 Outside the world of tech too, I love pushing myself to develop new skills. I love reading comics and books on personal development, philosophy and finance. My favorites ones are The Subtle art of not giving fuck by Mark Manson in the genre of personal development, L’existentialisme est un humanisme by Jean Paul Sartre in the genre of Philosophy and Asian Founders At Work by Ezra Ferraz and Gracy Fernandez .
 
 

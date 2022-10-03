@@ -18,7 +18,8 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 <hr>
 
 <h3>💻 Programming Languages & Tools</h3>
-[JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-276DC3?style=for-the-badge&logo=github-actions&logoColor=white)

@@ -58,6 +58,7 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 * [Build an SMS Reminder App using Nodejs, Twilio, and Flybase](https://medium.com/bitsrc/build-your-own-daily-sms-reminder-app-using-nodejs-twilio-and-flybase-c0e3f563cc88)
 * [Everything You Need to Know About HTTP Response Status Codes](https://medium.com/bitsrc/everything-you-need-to-know-about-http-response-status-codes-a11ea006db46)
 * [Securing Express Web Applications With Helmet](https://medium.com/bitsrc/securing-express-web-applications-with-helmet-3ef98b3c4a8e)
+* [Build a Real-Time Chat App using Node.js and WebSocket](https://medium.com/bitsrc/build-a-minimalist-real-time-chat-app-using-node-js-and-websocket-c70aecbaba3c)
 
 </details>
 
@@ -67,7 +68,7 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 * [The Efficient Way to Create a MERN App](https://medium.com/bitsrc/an-efficient-way-to-set-up-a-mern-stack-application-12fd87fad90d)
 * [How to Build a Progressive Web App (PWA) with Create React App](https://tealfeed.com/build-progressive-web-app-pwa-create-brwtu)
 * [Scalable and Maintainable React Project Structure Every Developer Should Use.](https://medium.com/gitconnected/scalable-and-maintainable-react-project-structure-every-developer-should-use-ae355bc57409)
-* [Fundamental Design Pattern: ModelViewController](https://medium.com/@cloudiosx/fundamental-design-pattern-modelviewcontroller-7ab1ab5f695c)
+* [VS Code Extensions You Should Use As a React Developer](https://medium.com/bitsrc/vs-code-extensions-you-should-use-as-a-react-developer-83fb1fc21d1e)
 
 </details>
 

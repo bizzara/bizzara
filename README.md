@@ -53,22 +53,22 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 <details>
 <summary>Related to Backend Development</summary>
 
-* [7 Best Tools for Monitoring Node.js Servers](https://medium.com/gitconnected/7-best-tools-for-monitoring-node-js-servers-b1680a77dd6c)
-* [7 Best Node.js Logging Libraries for Your Next Projects.](https://medium.com/gitconnected/7-best-node-js-logging-libraries-for-your-next-projects-2ae9da133931)
-* [Build an SMS Reminder App using Nodejs, Twilio, and Flybase](https://medium.com/bitsrc/build-your-own-daily-sms-reminder-app-using-nodejs-twilio-and-flybase-c0e3f563cc88)
-* [Everything You Need to Know About HTTP Response Status Codes](https://medium.com/bitsrc/everything-you-need-to-know-about-http-response-status-codes-a11ea006db46)
-* [Securing Express Web Applications With Helmet](https://medium.com/bitsrc/securing-express-web-applications-with-helmet-3ef98b3c4a8e)
-* [Build a Real-Time Chat App using Node.js and WebSocket](https://medium.com/bitsrc/build-a-minimalist-real-time-chat-app-using-node-js-and-websocket-c70aecbaba3c)
+* [How to Build an SMS Reminder App using Nodejs, Twilio, and Flybase](https://tealfeed.com/build-sms-reminder-app-using-nodejs-h4hs6)
+* [7 Best Tools for Monitoring Node.js Servers](https://dev.to/devland/7-best-tools-for-monitoring-nodejs-servers-168h)
+* [7 Best Node.js Logging Libraries for Your Next Projects](https://dev.to/devland/7-best-nodejs-logging-libraries-for-your-next-projects-38df)
+* [How to Create and Manage Virtual Domains using Node.js](https://dev.to/devland/how-to-create-and-manage-virtual-domains-using-nodejs-3h14)
+* [Set up a Node.js App with ESLint and Prettier](https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p)
+* [Build a Real-Time Chat App using Node.js and WebSocket](https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g)
 
 </details>
 
 <details>
 <summary>Frontend Development with React:</summary>
 
-* [The Efficient Way to Create a MERN App](https://medium.com/bitsrc/an-efficient-way-to-set-up-a-mern-stack-application-12fd87fad90d)
-* [How to Build a Progressive Web App (PWA) with Create React App](https://tealfeed.com/build-progressive-web-app-pwa-create-brwtu)
-* [Scalable and Maintainable React Project Structure Every Developer Should Use.](https://medium.com/gitconnected/scalable-and-maintainable-react-project-structure-every-developer-should-use-ae355bc57409)
-* [VS Code Extensions You Should Use As a React Developer](https://medium.com/bitsrc/vs-code-extensions-you-should-use-as-a-react-developer-83fb1fc21d1e)
+* [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
+* [Scalable and Maintainable React Project Structure Every Developer Should Use](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)
+* [VS Code Extensions You Should Use As a React Developer](https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i)
+* [7 Tools for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
 
 </details>
 

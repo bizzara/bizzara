@@ -80,3 +80,9 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@merndev)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:thomassentre332@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/thomasdevs)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas-Max99&show_icons=true&locale=en&layout=compact" alt="Thomas" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thomas-Max99&show_icons=true&locale=en" alt="Thomas" /></p>
+

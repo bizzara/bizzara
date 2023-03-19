@@ -13,7 +13,7 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 
 ✨ Enjoys writing tutorials for developers.
 
-✨ Enjoys building apps in frameworks like React and React Native. Also into building APIs using REST or GraphQL.
+✨ Enjoys building apps in frameworks like React and React Native.Also into building APIs using REST or GraphQL.
 
 <hr>
 

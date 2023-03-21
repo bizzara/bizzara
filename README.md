@@ -48,7 +48,7 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 
 <hr>
 
-<h3>📝 Blog Posts</h3>
+<h3>Blog Posts</h3>
 
 <details>
 <summary>Related to Backend Development</summary>

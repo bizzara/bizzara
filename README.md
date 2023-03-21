@@ -63,7 +63,7 @@ Using languages and frameworks like JavaScript, TypeScript , Node.js, React, Rea
 </details>
 
 <details>
-<summary>Frontend Development with React:</summary>
+<summary>Frontend Development With React:</summary>
 
 * [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
 * [Scalable and Maintainable React Project Structure Every Developer Should Use](https://dev.to/devland/scalable-and-maintainable-react-project-structure-every-developer-should-use-3om4)

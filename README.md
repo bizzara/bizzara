@@ -42,14 +42,6 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 <br/>
 
-<h3>📊 Development Metrics</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas-Max99&show_icons=true&locale=en&layout=compact" alt="Thomas" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thomas-Max99&show_icons=true&locale=en" alt="Thomas" /></p>
-
-<hr>
-
 <h3>Blog Posts</h3>
 
 <details>
